@@ -1,6 +1,6 @@
 d = int(input("Distance (km): "))
 
-if d >= 500 :
+if d > 500 :
     print("Your shipment cost is ฿45.")
 elif d >= 301:
     print("Your shipment cost is ฿35.")
